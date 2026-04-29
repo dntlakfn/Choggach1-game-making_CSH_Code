@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f36855300041e4c4aa0afc6ed82e8654, type: 3}
+  m_Name: SubType_HiddenChest
+  m_EditorClassIdentifier: Assembly-CSharp::StageSubTypeDataSO
+  enumName: HiddenChest
+  stageSubTypeIndex: 1
+  icon: {fileID: 21300000, guid: 666be5be360c5e548aa2a365ab64047a, type: 3}
+  subTypeName: "\uC228\uACA8\uC9C4 \uC0C1\uC790"
+  subTypeDescription: "\uC774\uACF3\uC5D0\uB294 \uC0C1\uC790\uAC00 \uC228\uACA8\uC838
+    \uC788\uC2B5\uB2C8\uB2E4."

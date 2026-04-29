@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4842350567181057753
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2599599437792775239}
+  - component: {fileID: 1151602718558403970}
+  m_Layer: 0
+  m_Name: MapLoader
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2599599437792775239
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4842350567181057753}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 31.32409, y: -27.77932, z: -0.35722044}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1151602718558403970
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4842350567181057753}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c061b1f85937663498b7d2d53de4eeac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  roomPrefabs:
+  - {fileID: 1263136767042028865, guid: 73bd113cf7c0a1f41b2c0e4f6c8e2ef3, type: 3}
+  - {fileID: 7088532891187398916, guid: 5ccef98e5bff48044bb77633021c29f1, type: 3}
+  - {fileID: 7088532891187398916, guid: ac197b611bc9fd8418c46e8c230f161e, type: 3}
+  - {fileID: 7088532891187398916, guid: 567a064fe276de744be53725b2bb77ed, type: 3}
+  - {fileID: 7088532891187398916, guid: 1c2ce62baf0c4a54a82833f9ae12a291, type: 3}
+  - {fileID: 1263136767042028865, guid: 9dfa79fedd9cfed488923d7e51fd69b2, type: 3}
+  mapWidth: 5
+  mapHeight: 5
+  roomPaddingX: 12
+  roomPaddingY: -11
+  targetPointCount: 1
+  towardTargetBias: 0.65
+  noBacktrackBias: 0.676
+  maxStepsMultiplier: 3

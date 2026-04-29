@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69062992245b4757afab78f8561b34c4, type: 3}
+  m_Name: BloodSukingBuff_visual
+  m_EditorClassIdentifier: Assembly-CSharp::YIS.Code.Modules.BuffVisualSO
+  buffName: "\uD761\uD608"
+  buffIcon: {fileID: 21300000, guid: 49ee4847dede1cc499466a393ff3462b, type: 3}
+  buffDescription: "\uC8FC\uB294 \uD53C\uD574\uB7C9\uC5D0 \uBE44\uB840\uD574 \uCC44\uB825\uC744
+    \uD68C\uBCF5\uD569\uB2C8\uB2E4."

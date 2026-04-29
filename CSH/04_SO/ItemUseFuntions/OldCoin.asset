@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d5e5ae72a805e74cba0129dda99d963, type: 3}
+  m_Name: OldCoin
+  m_EditorClassIdentifier: Assembly-CSharp::CSH.Scripts.Items.OldCoinEffect
+  toUser: 1
+  toTarget: 0
+  percent: 1
+  canUseField: 0
+  canUseBattle: 1
+  _: "\uC0AC\uC6A9 \uC2DC 1\uD134 \uB3D9\uC548 \uC790\uC2E0\uC5D0\uAC8C \uD604\uC7AC
+    \uAC00\uC9C4 \uCF54\uC778\uC758 {percent}% \uB9CC\uD07C \uACF5\uACA9\uB825 \uC99D\uAC00"

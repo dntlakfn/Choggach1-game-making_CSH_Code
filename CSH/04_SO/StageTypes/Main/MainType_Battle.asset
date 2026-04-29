@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d32cc8371113b242bd0020845bf12d3, type: 3}
+  m_Name: MainType_Battle
+  m_EditorClassIdentifier: Assembly-CSharp::StageMainTypeDataSO
+  enumName: Battle
+  stageMainTypeIndex: 0
+  icon: {fileID: -1213759170, guid: ca6e56972de05db48a25abd07f72f1f0, type: 3}
+  mainTypeName: "\uC804\uD22C"
+  mainTypeDescription: "\uC774\uACF3\uC5D0\uC11C\uB294 \uC804\uD22C\uB97C \uCE58\uB904\uC57C\uD569\uB2C8\uB2E4."

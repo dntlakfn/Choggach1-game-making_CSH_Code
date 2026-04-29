@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &9191430688669837676
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8536997276251783396}
+  - component: {fileID: 9145512515637020476}
+  m_Layer: 0
+  m_Name: CameraEffectCompo
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8536997276251783396
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9191430688669837676}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.0714116, y: 2.280968, z: -0.07251159}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &9145512515637020476
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9191430688669837676}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cbf8d71c2b55b94fb4939b5a14befcf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cinemachine: {fileID: 0}
+  transitionController: {fileID: 0}
+  attackText: {fileID: 0}
+  volume: {fileID: 11400000, guid: 4cf57d98bb247e047bc6346705df138b, type: 2}
+  pixelPerfectCamera: {fileID: 0}
+  playerInput: {fileID: 11400000, guid: 9220bfb56fbb3144fb8574b4eb73cdcc, type: 2}
+  sceneName: BattleScene
+  distortionTarget: -1
+  distortionDuration: 1
+  zoomInSize: 5
+  zoomInDuration: 0.5
+  zoomInEase: 21
+  transitionLeadSeconds: 1.4

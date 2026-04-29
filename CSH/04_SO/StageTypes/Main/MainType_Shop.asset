@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d32cc8371113b242bd0020845bf12d3, type: 3}
+  m_Name: MainType_Shop
+  m_EditorClassIdentifier: Assembly-CSharp::StageMainTypeDataSO
+  enumName: Shop
+  stageMainTypeIndex: 1
+  icon: {fileID: -1997134305, guid: ca6e56972de05db48a25abd07f72f1f0, type: 3}
+  mainTypeName: "\uC0C1\uC810"
+  mainTypeDescription: "\uC774\uACF3\uC5D0\uB294 \uC0C1\uC810\uC774 \uC788\uC2B5\uB2C8\uB2E4."

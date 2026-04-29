@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e1c49fc04244b8cad6e5dcb4f153cc9, type: 3}
+  m_Name: AttackDebuff
+  m_EditorClassIdentifier: Assembly-CSharp::YIS.Code.Modules.BuffDataSO
+  buffEnumName: ATTACK_DEBUFF
+  index: 1
+  elemental: 0
+  visualData: {fileID: 11400000, guid: 6a06de190592ba54084d6a96c9343bba, type: 2}
+  buffPrefab: {fileID: 11400000, guid: 74bee7fa4f40aaf43bbf3dc22ffbfd5e, type: 2}

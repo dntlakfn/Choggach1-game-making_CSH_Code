@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: d53da0a486e98e24cbe4c81e6e93107e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7354305992647417002
+    second: TestFieldAttack_0
+  - first:
+      213: 202287382602537373
+    second: TestFieldAttack_1
+  - first:
+      213: -6545577677019246464
+    second: TestFieldAttack_2
+  - first:
+      213: -6646942450197284144
+    second: TestFieldAttack_3
+  - first:
+      213: 336904561473810057
+    second: TestFieldAttack_4
+  - first:
+      213: -4910947682576956594
+    second: TestFieldAttack_5
+  - first:
+      213: 996937440766790881
+    second: TestFieldAttack_6
+  - first:
+      213: -1199293103861746248
+    second: TestFieldAttack_7
+  - first:
+      213: 7904578676961937701
+    second: TestFieldAttack_8
+  - first:
+      213: -8926886865628238717
+    second: TestFieldAttack_9
+  - first:
+      213: -4579626053161535972
+    second: TestFieldAttack_10
+  - first:
+      213: 940962469671238069
+    second: TestFieldAttack_11
+  - first:
+      213: 8138558519012310200
+    second: TestFieldAttack_12
+  - first:
+      213: 6568668653353577920
+    second: TestFieldAttack_13
+  - first:
+      213: -5958822695150303676
+    second: TestFieldAttack_14
+  - first:
+      213: 7077406542173578358
+    second: TestFieldAttack_15
+  - first:
+      213: 1268747484581699223
+    second: TestFieldAttack_16
+  - first:
+      213: -8756892139972765751
+    second: TestFieldAttack_17
+  - first:
+      213: -621578506873370398
+    second: TestFieldAttack_18
+  - first:
+      213: 3806961414348124920
+    second: TestFieldAttack_19
+  - first:
+      213: -5785705695402320488
+    second: TestFieldAttack_20
+  - first:
+      213: 7489301702106852566
+    second: TestFieldAttack_21
+  - first:
+      213: -1953648409690388535
+    second: TestFieldAttack_22
+  - first:
+      213: -1738168136281471146
+    second: TestFieldAttack_23
+  - first:
+      213: -4690176603531902681
+    second: TestFieldAttack_24
+  - first:
+      213: 2300224401593077449
+    second: TestFieldAttack_25
+  - first:
+      213: 1781790258408960850
+    second: TestFieldAttack_26
+  - first:
+      213: 1292532338289702174
+    second: TestFieldAttack_27
+  - first:
+      213: 4868514497873615386
+    second: TestFieldAttack_28
+  - first:
+      213: 1618933442038327283
+    second: TestFieldAttack_29
+  - first:
+      213: 4266753527212025249
+    second: TestFieldAttack_30
+  - first:
+      213: 3706470458106553822
+    second: TestFieldAttack_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TestFieldAttack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1245
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac9645e55ebf0660800000000000000
+      internalID: 7354305992647417002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1245
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99519e7d4baec200800000000000000
+      internalID: 202287382602537373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1245
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0809a8f58cf6925a0800000000000000
+      internalID: -6545577677019246464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1245
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dab68dfe0151c3a0800000000000000
+      internalID: -6646942450197284144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 996
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc34dfe2e42a7d4b89aa9cffb8ecf35
+      internalID: 336904561473810057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 996
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e219020884aeb8a4badfd92f59ba3e4c
+      internalID: -4910947682576956594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_6
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 996
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac28c434041e2c42939cda5fe5a3f26
+      internalID: 996937440766790881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_7
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 996
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a2ba31e1dd9e142b0a2c16199660e3
+      internalID: -1199293103861746248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 747
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83289522ffb2eae4abf1be044e08da33
+      internalID: 7904578676961937701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 747
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8fe8705d657a31408ea0e70ad01542b
+      internalID: -8926886865628238717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 747
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a061a70820c7c364b8fa27980bdc4e4e
+      internalID: -4579626053161535972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 747
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3200ee4953729904abbbb7d1e7507fca
+      internalID: 940962469671238069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 498
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32f110ca5e2db74ab3464693089829d
+      internalID: 8138558519012310200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 498
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53446f896f5a8474da965ca94fe43df4
+      internalID: 6568668653353577920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 498
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6114f943cd14f2478e38aaa5c0aefa9
+      internalID: -5958822695150303676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_15
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 498
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10df3cef12b61354abde866577fb02a8
+      internalID: 7077406542173578358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 249
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a0533c7ff6b3449a2afe565b5b6eec
+      internalID: 1268747484581699223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 249
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536bf17ed6aed364a94dc576639a11c5
+      internalID: -8756892139972765751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 249
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485ce8a70b1f1224d9866baec6ed4ecc
+      internalID: -621578506873370398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 249
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91287b109dd2c634698a31e938bc3643
+      internalID: 3806961414348124920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cbbe88376abde4f800d140d7797251
+      internalID: -5785705695402320488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8bd5a6658d45f419e8457fe77cbe19
+      internalID: 7489301702106852566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871625206c603c5478845ec270466eb0
+      internalID: -1953648409690388535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TestFieldAttack_23
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28adac676376ba94ca98b81254d6b761
+      internalID: -1738168136281471146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 524f8a45baf5a4841a6d6c4ffa6fc24f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      TestFieldAttack_0: 7354305992647417002
+      TestFieldAttack_1: 202287382602537373
+      TestFieldAttack_10: -4579626053161535972
+      TestFieldAttack_11: 940962469671238069
+      TestFieldAttack_12: 8138558519012310200
+      TestFieldAttack_13: 6568668653353577920
+      TestFieldAttack_14: -5958822695150303676
+      TestFieldAttack_15: 7077406542173578358
+      TestFieldAttack_16: 1268747484581699223
+      TestFieldAttack_17: -8756892139972765751
+      TestFieldAttack_18: -621578506873370398
+      TestFieldAttack_19: 3806961414348124920
+      TestFieldAttack_2: -6545577677019246464
+      TestFieldAttack_20: -5785705695402320488
+      TestFieldAttack_21: 7489301702106852566
+      TestFieldAttack_22: -1953648409690388535
+      TestFieldAttack_23: -1738168136281471146
+      TestFieldAttack_3: -6646942450197284144
+      TestFieldAttack_4: 336904561473810057
+      TestFieldAttack_5: -4910947682576956594
+      TestFieldAttack_6: 996937440766790881
+      TestFieldAttack_7: -1199293103861746248
+      TestFieldAttack_8: 7904578676961937701
+      TestFieldAttack_9: -8926886865628238717
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

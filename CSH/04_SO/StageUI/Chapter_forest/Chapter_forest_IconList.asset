@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 047672f06f44f8549b3af5b033d24252, type: 3}
+  m_Name: Chapter_forest_IconList
+  m_EditorClassIdentifier: Assembly-CSharp::Work.Scripts.UI.StageUIIconSpriteDataListSO
+  battleMapIcons:
+  - icon: {fileID: 6653192268960860378, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 
+  - icon: {fileID: -8767122341245724031, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 
+  - icon: {fileID: 8749462296167908929, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 
+  - icon: {fileID: -5599737976357749456, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 
+  eliteMapIcons:
+  - icon: {fileID: -5052708832446889592, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 
+  - icon: {fileID: 6796939923475048544, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 
+  - icon: {fileID: -6975162543920947178, guid: bafd2817ef624c84f957d8c434f4c629, type: 3}
+    stageSubTypes: 
+  giftMapIcon:
+  - icon: {fileID: 7557110379635283036, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 00000000
+  - icon: {fileID: 7557110379635283036, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 00000000
+  - icon: {fileID: 7557110379635283036, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 00000000
+  - icon: {fileID: 7557110379635283036, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 00000000
+  shopMapIcon:
+  - icon: {fileID: 5931718017360395217, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 
+  miniBossMapIcons:
+  - icon: {fileID: -5645659037250051822, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 
+  - icon: {fileID: -2186889958690431136, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 
+  - icon: {fileID: -3772249052190380165, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 
+  - icon: {fileID: -3057914774569833197, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 
+  bossMapIcons:
+  - icon: {fileID: -7932678877483391239, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 
+  - icon: {fileID: 8938049309093681391, guid: 48a0f67a8966fbb448fdd3c8babe28d4, type: 3}
+    stageSubTypes: 
+  startMapIcon:
+  - icon: {fileID: -9125036593328780786, guid: bafd2817ef624c84f957d8c434f4c629, type: 3}
+    stageSubTypes: 

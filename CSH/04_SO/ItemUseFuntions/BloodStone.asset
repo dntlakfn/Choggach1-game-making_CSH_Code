@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed5fd0450cdf44e4ba8a6abca54f225a, type: 3}
+  m_Name: BloodStone
+  m_EditorClassIdentifier: Assembly-CSharp::CSH.Scripts.Items.ApplyBuffEffectSO
+  toUser: 1
+  toTarget: 0
+  buffType: 4
+  value: 5
+  duration: 1
+  canUseField: 0
+  canUseBattle: 1

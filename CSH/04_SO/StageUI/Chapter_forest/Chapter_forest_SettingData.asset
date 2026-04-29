@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5735e96541dfecf4f9b6a279984f77f9, type: 3}
+  m_Name: Chapter_forest_SettingData
+  m_EditorClassIdentifier: Assembly-CSharp::CSH.UI.StageUI.StageUISettingDataSO
+  battleMapCount: 4
+  eliteMapCount: 3
+  shopMapCount: 1
+  bossMapCount: 2
+  miniBossMapCount: 4
+  giftMapCount: 4
+  stageLineCount: 8
+  stageNodeCount: 3
+  minNonBattleRoomAppearFloor: 3
+  maxChestStageCount: 3
+  maxShopStageCount: 0
+  eliteStageFloor: 6
+  miniBossStageFloor: 4
+  bossStageFloor: 8

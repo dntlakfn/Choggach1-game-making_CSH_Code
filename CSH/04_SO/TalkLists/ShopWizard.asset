@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c929948617e4a74a8b9dc187866ee95, type: 3}
+  m_Name: ShopWizard
+  m_EditorClassIdentifier: 
+  leftCharacter:
+    Name: "\uC0C1\uC810\uC8FC\uC778"
+    CharacterImgae: {fileID: -2039605805, guid: 15a807fb9d348a14983e30e6234f493b, type: 3}
+    GazeDirType: 0
+  rightCharacter:
+    Name: "\uB098"
+    CharacterImgae: {fileID: 1203870698, guid: 98fa593358cb71d49afc0bf6e8c3646c, type: 3}
+    GazeDirType: 1
+  talkDataList:
+  - Type: 0
+    Text: ...
+    choiceData: {fileID: 11400000, guid: 5e30db59d7ec6da42a5c404e857b76d1, type: 2}

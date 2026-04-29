@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d32cc8371113b242bd0020845bf12d3, type: 3}
+  m_Name: MainType_Start
+  m_EditorClassIdentifier: Assembly-CSharp::StageMainTypeDataSO
+  enumName: Start
+  stageMainTypeIndex: 6
+  icon: {fileID: 21300000, guid: c70b809e2088b0540aefe1a7ae4645e3, type: 3}
+  mainTypeName: "\uB9C8\uC744"
+  mainTypeDescription: "\uB2F9\uC2E0\uC774 \uCD9C\uBC1C\uD55C \uB9C8\uC744\uC785\uB2C8\uB2E4.
+    \uADFC\uB370 \uB20C\uB7EC\uB3C4 \uB9C8\uC744\uC740 \uC548\uAC00\uC9D1\uB2C8\uB2E4."

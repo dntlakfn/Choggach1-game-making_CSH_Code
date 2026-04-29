@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2393667dcab7d44ca914e2050c4ff71, type: 3}
+  m_Name: NewSkillItem
+  m_EditorClassIdentifier: Assembly-CSharp::YIS.Code.Skills.SkillDataSO
+  grade: 1
+  skillType: 0
+  bindingFlags: 52
+  elemental: 1
+  skillName: Poision
+  visualData: {fileID: 11400000, guid: ba5ff988a347ff045a8cdca53533b5e3, type: 2}
+  upgradeData: {fileID: 0}
+  index: 0
+  className: CSH.Code.Skills.PoisionSkill, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+    PublicKeyToken=null
+  skillPrefab: {fileID: 0}
+  range: 1
+  damage: 0
+  cooldownTurn: 3
+  durationTurn: 2
+  impulsePower: 0
+  animatorEffect: {fileID: 0}
+  effectParam: {fileID: 0}
+  playEffectOnSelf: 0
+  playEffectOnFlip: 0
+  attackSound: {fileID: 0}
+  checkAttributeName: 
+  checkSkillType: 0
+  conditionerType: 0

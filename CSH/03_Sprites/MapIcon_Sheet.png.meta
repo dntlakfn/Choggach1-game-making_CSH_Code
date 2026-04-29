@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 48a0f67a8966fbb448fdd3c8babe28d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6653192268960860378
+    second: MapIcon_Sheet_0
+  - first:
+      213: -8767122341245724031
+    second: MapIcon_Sheet_1
+  - first:
+      213: 5931718017360395217
+    second: MapIcon_Sheet_2
+  - first:
+      213: -7932678877483391239
+    second: MapIcon_Sheet_3
+  - first:
+      213: -5052708832446889592
+    second: MapIcon_Sheet_4
+  - first:
+      213: -5599737976357749456
+    second: MapIcon_Sheet_5
+  - first:
+      213: 7557110379635283036
+    second: MapIcon_Sheet_6
+  - first:
+      213: 8938049309093681391
+    second: MapIcon_Sheet_7
+  - first:
+      213: -5645659037250051822
+    second: MapIcon_Sheet_8
+  - first:
+      213: -2186889958690431136
+    second: MapIcon_Sheet_9
+  - first:
+      213: -3772249052190380165
+    second: MapIcon_Sheet_10
+  - first:
+      213: 6796939923475048544
+    second: MapIcon_Sheet_11
+  - first:
+      213: -3057914774569833197
+    second: MapIcon_Sheet_12
+  - first:
+      213: -1665334092073315366
+    second: MapIcon_Sheet_13
+  - first:
+      213: 8749462296167908929
+    second: MapIcon_Sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MapIcon_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 379
+        width: 73
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad889c55e13e45c50800000000000000
+      internalID: 6653192268960860378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 379
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a58ab4eace45680800000000000000
+      internalID: -8767122341245724031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 379
+        width: 79
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbfc84fb12b15250800000000000000
+      internalID: 5931718017360395217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 371
+        width: 105
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6ab5e079679e190800000000000000
+      internalID: -7932678877483391239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 310
+        width: 82
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8814688561c21e9b0800000000000000
+      internalID: -5052708832446889592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 321
+        width: 76
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d7eebaafbb942b0800000000000000
+      internalID: -5599737976357749456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 315
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54149ad9df30e860800000000000000
+      internalID: 7557110379635283036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 274
+        width: 156
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe85475ad745a0c70800000000000000
+      internalID: 8938049309093681391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 247
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211acb1840796a1b0800000000000000
+      internalID: -5645659037250051822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 252
+        width: 81
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f53615b2b96a1e0800000000000000
+      internalID: -2186889958690431136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 191
+        width: 79
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f63e7297746abc0800000000000000
+      internalID: -3772249052190380165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 201
+        width: 83
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068a66249d4935e50800000000000000
+      internalID: 6796939923475048544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 135
+        width: 68
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31da85cc6ba1095d0800000000000000
+      internalID: -3057914774569833197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 138
+        width: 86
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad35f91777b83e8e0800000000000000
+      internalID: -1665334092073315366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MapIcon_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 72
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14603ca0a955c6970800000000000000
+      internalID: 8749462296167908929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MapIcon_Sheet_0: 6653192268960860378
+      MapIcon_Sheet_1: -8767122341245724031
+      MapIcon_Sheet_10: -3772249052190380165
+      MapIcon_Sheet_11: 6796939923475048544
+      MapIcon_Sheet_12: -3057914774569833197
+      MapIcon_Sheet_13: -1665334092073315366
+      MapIcon_Sheet_14: 8749462296167908929
+      MapIcon_Sheet_2: 5931718017360395217
+      MapIcon_Sheet_3: -7932678877483391239
+      MapIcon_Sheet_4: -5052708832446889592
+      MapIcon_Sheet_5: -5599737976357749456
+      MapIcon_Sheet_6: 7557110379635283036
+      MapIcon_Sheet_7: 8938049309093681391
+      MapIcon_Sheet_8: -5645659037250051822
+      MapIcon_Sheet_9: -2186889958690431136
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

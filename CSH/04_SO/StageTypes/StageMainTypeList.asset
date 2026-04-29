@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2fbf8c21d2072644a6907619c600ac4, type: 3}
+  m_Name: StageMainTypeList
+  m_EditorClassIdentifier: Assembly-CSharp::StageMainTypeListSO
+  enumName: StageType
+  mainTypes:
+  - {fileID: 11400000, guid: ad01e65ad6bd6ef498b11c73af9fe0be, type: 2}
+  - {fileID: 11400000, guid: 7b6e652720400c847a63ea80ffcaec4a, type: 2}
+  - {fileID: 11400000, guid: e69ee154be07edd439c87124d56a611c, type: 2}
+  - {fileID: 11400000, guid: 24261d4e46fedb84aa67edccc1186f41, type: 2}
+  - {fileID: 11400000, guid: 5705722227052b44ebb81bf25b21f667, type: 2}
+  - {fileID: 11400000, guid: f538458f74ebf68459561edcbbe59a1f, type: 2}
+  - {fileID: 11400000, guid: f1a6213efb3e0c146a02f45bf05c8714, type: 2}
